@@ -1,6 +1,6 @@
 submitit
-# torch==1.8.1
-# torchvision==0.9.1
+torch==2.0.1
+torchvision==0.15.2
 faiss-gpu==1.7.2
 opencv-python==4.6.0.66
 scikit-image==0.19.2
